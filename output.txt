@@ -1,0 +1,231 @@
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora_math/lora_26, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====51
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.22441243366186506
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora_math/lora_25, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====8
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.2539802880970432
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora_math/lora_24, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====23
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.18423047763457165
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora_math/lora_23, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====27
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.20090978013646701
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora_math/lora_0, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====52
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.18574677786201668
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora_math/lora_1, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====63
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.2168309325246399
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora_math/lora_2, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====60
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.2047005307050796
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora_math/lora_3, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====43
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.21228203184230476
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora_math/lora_4, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====61
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.17437452615617893
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora_math/lora_5, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====46
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.22896133434420016
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora_math/lora_6, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====70
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.22896133434420016
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora_math/lora_7, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====34
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.2001516300227445
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora_math/lora_8, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====25
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.2676269901440485
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora_math/lora_9, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====28
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.21455648218347234
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora_math/lora_10, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====82
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.20166793025018953
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora_math/lora_11, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====46
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.2001516300227445
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora_math/lora_12, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====35
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.2100075815011372
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora_math/lora_13, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====164
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.20242608036391205
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora_math/lora_14, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====85
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.06292645943896892
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora_math/lora_15, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====35
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.19636087945413191
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora_math/lora_16, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====142
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.133434420015163
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora_math/lora_17, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====30
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.21228203184230476
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora_math/lora_18, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====1187
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.0075815011372251705
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora_math/lora_19, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====13
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.2266868840030326
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora_math/lora_20, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====131
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.22517058377558757
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora_math/lora_21, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====14
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.2259287338893101
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora_math/lora_22, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====60
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.23426838514025777
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora-math-mar04/lora_0, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====41
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.2092494313874147
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora-math-mar04/lora_1, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====80
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.1243366186504928
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora-math-mar04/lora_2, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====48
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.19408642911296436
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora-math-mar04/lora_3, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====32
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.09021986353297953
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora-math-mar04/lora_4, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====79
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.1463229719484458
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora-math-mar04/lora_5, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====553
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.008339651250947688
+

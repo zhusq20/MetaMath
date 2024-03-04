@@ -1,0 +1,49 @@
+
+
+ model=== /data/dataset/llama/llama-2-7b-chat-hf, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====325
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.2092494313874147
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora_math/lora_8, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====36
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.26383623957543595
+
+
+
+ model=== /data/siqizhu/llama-2-7b-chat-lora_math/lora_21, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====25
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.20090978013646701
+
+
+
+ model=== /data/siqizhu/lema-7b/lora_0, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====205
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.1728582259287339
+
+
+
+ model=== /data/siqizhu/lema-7b/lora_0, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====1319
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.0
+
+
+
+ model=== /data/siqizhu/lema-7b/lora_0, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====111
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.17892342683851403
+
+
+
+ model=== /mnt/data/zhongrx/Llama-2-7b-hf, data_path=== ./data/test/GSM8K_test.jsonl
+len invalid outputs ====523
+start=== 0, end=== 1319
+gsm8k length==== 1319, gsm8k acc==== 0.039423805913570885
+
